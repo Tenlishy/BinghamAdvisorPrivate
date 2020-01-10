@@ -1,4 +1,4 @@
-# BinghamTutorPrivate
+# BinghamTutor Private
 
 The application respects and protects the privacy of all users of the service. In order to provide you with more accurate and personalized services, the application will use and disclose your personal information in accordance with the provisions of this privacy policy. However, the application will treat such information with a high degree of diligence and care. Except as otherwise provided in this privacy policy, the app will not disclose or provide such information to any third party without your prior permission.
 
